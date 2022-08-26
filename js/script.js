@@ -17,7 +17,7 @@ document.querySelectorAll('.accordion-container .accordion').forEach(accordion =
   }
 });
 
-let countDate = new Date('aug 5, 2022 10:30:00').getTime();
+let countDate = new Date('sep 10, 2022 10:30:00').getTime();
 
 function countDown() {
 
